@@ -1,6 +1,6 @@
 # Pre-work - *Tip Calculator*
 
-**Tip Capculator* is a tip calculator application for iOS.
+**Tip Capculator** is a tip calculator application for iOS.
 
 Submitted by: **Princess Okada**
 
